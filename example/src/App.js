@@ -62,7 +62,7 @@ const tstyle = StyleSheet.create({
 
 export default class LayoutExample extends Component {
   render() {
-    const isT = true
+    const isT = false
 
     const iLayout = (
       <ILayout
