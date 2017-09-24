@@ -1,0 +1,30 @@
+{
+  "name": "react-native-quick-layout",
+  "version": "1.0.0",
+  "description": "Reusable layout,Similar to the T and I layout.",
+  "main": "index.js",
+  "directories": {
+    "example": "example",
+    "src": "src"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoJoHub/react-native-layout.git"
+  },
+  "keywords": [
+    "layout",
+    "react-native",
+    "react-component",
+    "ios",
+    "android"
+  ],
+  "author": "LuoHao <tiancailuohao@vip.qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RoJoHub/react-native-layout/issues"
+  },
+  "homepage": "https://github.com/RoJoHub/react-native-layout#readme"
+}
